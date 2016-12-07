@@ -1,4 +1,3 @@
-ud989-cat-clicker-ko-starter
-============================
+A JavaScipt App exercise starter: Cats poll app
 
-ud989-cat-clicker-ko-starter
+Forked from ud989-cat-clicker-ko-starter
